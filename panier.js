@@ -34,7 +34,7 @@ function AllProject(json,nArticle){
         } 
             ) ( nArticle[article]), false );
     }
-    section.insertAdjacentHTML('beforeend','<div id="prix"> Prix total : '+prix+'</div>');
+    section.insertAdjacentHTML('beforeend','<div id="prix"> Prix total : '+prix+'€</div>');
     section.insertAdjacentHTML('beforeend','<a href="final.html" id="send">Confirmer le prix</a>');
     // document.getElementById('send').addEventListener('click',function(){
         
