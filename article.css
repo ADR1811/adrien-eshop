@@ -1,0 +1,260 @@
+#PageArticle{
+    position: relative;
+    top: 8vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#titreArticle{
+    font-size :4vw;
+    padding: 0;
+    margin: auto;
+    margin-top: 0;  
+    font-family: "Monstserrat-bold";
+}
+
+
+#contenuArticle{
+    display: flex;
+    flex-direction: row;
+
+    margin-left: 3vw;
+    
+}
+
+#contenuPhoto{
+    display: flex;
+    flex-direction: row;
+    
+    width: 40vw;
+    
+
+}
+
+
+#photo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 30vw;
+    width: 5vw;
+    margin-right: 2vw;
+    
+}
+#photo>img{
+    height: 5vw;
+    width: 5vw;
+}
+#photo>img:hover{
+    border: 1px solid black;
+}
+
+#contenuPhoto>img{
+    width: 30vw;
+    height: 30vw;
+}
+#PrixStockScoreEval{
+    
+    display: flex;
+    flex-direction: column;
+    margin-left: 2vw;
+    padding-right:2vw ;
+    margin-top: 2vw;    
+}
+#prix{
+    font-size :2.5vw;
+    font-family: "Monstserrat-SemiBold";
+    margin-bottom: 1.5vw; 
+}
+#StockScoreEval{
+    font-size :1.3vw;
+    font-family: "Monstserrat-Medium";
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+#resume{
+    margin-top: 1vw;
+    font-size :1vw;
+    font-family: "Monstserrat-Medium";
+    overflow-wrap: break-word;
+    
+}
+#commentaire{
+    display: flex;
+    flex-direction: column;
+    font-size :1.3vw;
+    font-family: "Monstserrat-Medium";
+    margin-top: 2vw;
+    margin-left: 2vw;
+    
+}
+
+#commentaire>div{
+    margin-bottom: 2vw;
+    border-bottom: 1px solid black; 
+
+}
+
+#panier{
+    font-size :1.3vw;
+    font-family: "Monstserrat-Medium";
+    position: absolute;
+    top: 8vw;
+    left: 80vw;
+    
+    padding: 1vw;
+    padding-top: 0.5vw;
+    padding-bottom: 0.5vw;
+    border-radius: 50px;
+    background-color: #506F8B;
+    box-shadow: 0px 5px 10px 0px black;
+}
+#panier:hover{
+    background-color: #849FB8 ;
+}
+#panier:active{
+    background-color: #2D3E4E ;
+    color: white;
+}
+
+#popup{
+    /* display: none; */
+    position: absolute;
+    background-color:#506F8B;
+    z-index: 500;
+    width: 50vw;
+    height:15vw ;
+    top: 30%; left: 50%; 
+    transform: translate(-50%, -50%);
+    border-radius: 2vw;
+    border: 5px solid black;
+}
+
+#popup>img{
+    position: relative;
+    top:2%;
+    left: 93%;
+    width: 2vw;
+    height: 2vw;
+    border: 5px solid black;
+    padding: 0.1vw;
+    border-radius: 15px;
+    background-color: #849FB8 ;
+}
+#popup>img:hover{
+    background-color: #C1CFDC ;
+}
+#popup>img:active{
+    background-color: #2D3E4E ;
+}
+
+#popup>div{
+    font-size :3vw;
+    font-family: "Monstserrat-Medium";
+    text-align: center;
+    color: #F2F2F2;
+    margin-top: 2vw;
+
+}
+.nothere{
+    display: none;
+}
+@media screen and (max-width: 950px)
+{
+    #photo {
+        
+        height: 50vw;
+        width: 30vw;
+        
+    }
+    #photo>img {
+        height: 8vw;
+        width: 10vw;
+    }
+    #contenuPhoto>img {
+        width: 50vw;
+        height: 50vw;
+    }
+    #contenuPhoto {
+        position: relative;
+        left: 15%;
+    }
+    #contenuArticle{
+        flex-direction: column;
+    }
+   
+    #prix {
+        margin-top: 5vh;
+        font-size: 5vh;
+        
+    }
+    #StockScoreEval {
+        font-size: 4vh;
+       
+    }
+    #resume {
+        margin-top: 5vh;
+        font-size: 3vh;
+    }  
+    #commentaire {
+        
+        font-size: 3vh;
+        margin-top: 10vh;
+
+    }
+    #commentaire>div {
+        margin-bottom: 2vw;
+        border-bottom: 3px solid black;
+    }
+    #panier {
+        font-size:5vh;
+        text-align: center;
+        position:static ;
+        margin-top: 15vw;
+        padding: 1vw;
+        padding-top: 0.5vw;
+        padding-bottom: 0.5vw;
+        
+    }
+    #popup {
+        
+        position: static;
+        background-color: #506F8B;
+        z-index: 500;
+        
+        text-align: center;
+        margin-left: 50vw;
+        margin-top: 15vw;
+        padding: 1vw;
+        padding-top: 0.5vw;
+        padding-bottom: 0.5vw;
+
+        border-radius: 2vw;
+        border: 5px solid black;
+    }
+
+    #popup>img {
+        position: relative;
+        top: 0;
+        left: 23vw;
+        width: 2vw;
+        height: 2vw;
+        padding-top: 0;
+        border: 1px solid black;
+        padding: 0.1vw;
+        border-radius: 15px;
+        background-color: #849FB8;
+    }
+    #popup>div {
+        font-size: 3vw;
+        font-family: "Monstserrat-Medium";
+        text-align: center;
+        color: #F2F2F2;
+        
+
+    }
+    
+    
+}

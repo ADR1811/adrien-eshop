@@ -1,0 +1,223 @@
+{
+    "article1":{
+        "id":1,
+        "Titre":"LEGO 10696 Classic",
+        "SousTitre":22.70,
+        "image":{
+            "image1":"src/Image/shop/lego1/lego",
+            "image2":"src/Image/shop/lego1/lego2",
+            "image3":"src/Image/shop/lego1/lego3",
+            "image4":"src/Image/shop/lego1/lego4",
+            "image5":"src/Image/shop/lego1/lego5"
+        },  
+        
+        "stock":"oui",
+        "score":"5",
+        "évaluation":"19085",
+        "résumé":"Comprend un vaste assortiment de briques LEGO de 35 couleurs.Comprend 18 pneus et 18 jantes.Les pièces spéciales incluent aussi une plaque de base 8 cm x 16 cm, une fenêtre avec un cadre et 3 paires d'yeux.LEGO Classic est conçu pour inspirer une créativité illimitée avec la brique LEGO.Les pièces spéciales encouragent la construction imaginative.Le grand nombre de roues facilite la création de véhicules et le jeu.Tous les modèles présentés peuvent être construits avec cet ensemble simultanément.Idées incluses avec l'ensemble et en ligne sur LEGO.fr/classic pour t'aider à démarrerVendu dans une boîte de rangement en plastique utile.La plaque verte mesure plus de 8 cm de long sur 16 cm de large.Les ensembles LEGO Classic sont un complément idéal de toute collection LEGO.",
+        "commentaires":{
+            "1":{
+                "name":"tralala",
+                "avis":"2/5",
+                "commentaire":"Belle grande boîte, pratique pour le rangement, mais déçu à l'ouverture, les Lego ne remplissent qu'un tout petit tiers de la boîte... Trompeur ?"
+            },
+            "2":{
+                "name":"choune",
+                "avis":"3/5",
+                "commentaire":"Les légos, tout le monde connait. La qualité est excellente.J'ai aimé : la grosse boite jaune qui permet le rangement des légosJ'ai moins aimé : le manque de gros légos 8 points, les plus utilisés. La boite est à moitié vide. Il y a trop de petites pièces. J'ai dû acheter une seconde boite pour pouvoir réaliser quelques constructions le long d'une route. Le jeu représente un effort financier, heureusement qu'il durera plusieurs années."
+            },
+            "3":{
+                "name":"Shara",
+                "avis":"5/5",
+                "commentaire":"C'est du légo, donc plus besoin de les décrire. Le contenu fait environ la moitié de la boîte en hauteur, ce qui permet de fouiller dedans pour trouver les pièces sans en renverser partout (ou d'ajouter d'autres légo). J'ai acheté une petite boîte pour y mettre les toutes petites pièces, sinon elles se retrouvent bien entendu au fin fond de la boîte et il devient compliqué de les trouver. Le livre fourni permet d'avoir quelques modèles de bases, d'autres pouvant se trouver sur Internet."
+            },
+            "4":{
+                "name":"B. Durand",
+                "avis":"5/5",
+                "commentaire":"THE boite de légos classiques pour des heures et des heures et des heures et des heures et... de construction. Mon fils de 8 ans l'a maintenant depuis 2 ans, et c'est clairement son jouet favori. Nous l'avons enrichi de pièces spécialisées (d'autres boites à modèles ou achetées sur des sites spécialisés) pour permettre la construction d'encore et encore d'autres créations.Nous avons acheté depuis des légos à modèles (star wars et Cie), beaucoup plus chers : après quelques heures de construction pas à pas, on n'ose plus les déconstruire, ni jouer avec d'ailleurs, au final ça prend la poussière : quel est l'intérêt ? Mon fils d'ailleurs, d'abord charmé par le produit final, a conclu lui-même qu'il n'en voulait plus. Rien de tel que les classics donc.Acheté pour mon petit neveu avec une grande plaque."
+            }
+        }
+        
+    },
+    "article2":{
+        "id":2,
+        "Titre":"LEGO City Le Camping-Car de Vacances",
+        "SousTitre":19.61 ,
+        "image":{
+            "image1":"src/Image/shop/lego2/lego",
+            "image2":"src/Image/shop/lego2/lego2",
+            "image3":"src/Image/shop/lego2/lego3",
+            "image4":"src/Image/shop/lego2/lego4",
+            "image5":"src/Image/shop/lego2/lego5"
+        },
+        
+        "stock":"non",
+        "score":"4",
+        "évaluation":"979",
+        "Résumé":"Avec ce set classique LEGO City Le camping-car de vacances (60283) débordant de fonctionnalités réalistes pour stimuler un jeu de rôle amusant et réaliste, les enfants peuvent laisser libre cours à leur imagination.La boîte contient tout ce dont un enfant a besoin pour créer un formidable camping-car doté de nombreuses fonctions fascinantes, les figurines d'une maman et d'un papa et un adorable bébé.Le camping-car de vacances dispose d'un intérieur meublé comprenant une table, une kitchenette et un espace nuit. Grâce à son panneau latéral et à son toit ouvrants, il y a beaucoup de place pour jouer.",
+        "commentaires":{
+            "1":{
+                "name":"a88minski",
+                "avis":"5/5",
+                "commentaire":"Bon produit, néamoins mon fils passe ses journée dessus à jouer à Fortnite"
+            },
+            "2":{
+                "name":"Jade",
+                "avis":"5/5",
+                "commentaire":"Bel engin."
+            },
+            "3":{
+                "name":"Martine",
+                "avis":"5/5",
+                "commentaire":"Parfait comme cadeau de noël"
+            }
+        }
+    },
+    "article3":{
+        "id":3,
+        "Titre":"LEGO Creator Le Dinosaure féroce",
+        "SousTitre":12.99 ,
+        "image":{
+            "image1":"src/Image/shop/lego3/lego",
+            "image2":"src/Image/shop/lego3/lego2",
+            "image3":"src/Image/shop/lego3/lego3",
+            "image4":"src/Image/shop/lego3/lego4",
+            "image5":"src/Image/shop/lego3/lego5"
+        },
+        
+        "stock":"oui",
+        "score":"4.5",
+        "évaluation":"2187",
+        "résumé":"Comprend un T. Rex 3-en-1 avec des yeux orange vif, des articulations et une tête mobiles, de grandes griffes et une mâchoire qui s’ouvre avec des dents pointues. Inclut aussi la proie du dinosaure sous la forme d’une cage thoracique à construire.Découvre les coloris authentiques vert foncé et beige.Positionne les bras, les pattes, la queue et la tête du T. Rex et ouvre sa bouche pour révéler des dents féroces.Transforme-le pour créer d'autres dinosaures puissants.Cet ensemble comprend plus de 170 pièces et offre une expérience de construction et de jeu adaptée aux enfants de 7 à 12 ans.",
+        "commentaires":{
+            "1":{
+                "name":"Sammy",
+                "avis":"5/5",
+                "commentaire":"C'est mon 10ème de commandé, j'ai perdu les 9 derniers..."
+            },
+            "2":{
+                "name":"Luigi",
+                "avis":"1/5",
+                "commentaire":"Jamais reçu."
+            },
+            "3":{
+                "name":"Patrick",
+                "avis":"5/5",
+                "commentaire":"Rapide et efficace"
+            }
+        }
+    },
+    "article4":{
+        "id":4,
+        "Titre":"LEGO Speed Champions McLaren Senna",
+        "SousTitre":11.99 ,
+        "image":{
+            "image1":"src/Image/shop/lego4/lego",
+            "image2":"src/Image/shop/lego4/lego2",
+            "image3":"src/Image/shop/lego4/lego3",
+            "image4":"src/Image/shop/lego4/lego4",
+            "image5":"src/Image/shop/lego4/lego5"
+        },
+        
+        "stock":"oui",
+        "score":"5",
+        "évaluation":"7646",
+        "résumé":"Inclut une figurine de pilote de course McLaren dans une combinaison de course comprenant les logos McLaren Senna et Pirelli. La McLaren Senna à construire, prête pour la course, comprend un cockpit pour figurine, un pare-brise amovible, des roues avec des pneus en caoutchouc et des jantes interchangeables, un aileron arrière, des éléments de style lumineux translucides, des autocollants avec les logos McLaren et Senna et des détails de design réalistes. Le pare-brise s'enlève pour placer la figurine dans la voiture. Comprend aussi un tunnel aérodynamique à construire avec un ventilateur rotatif.",
+        "commentaires":{
+            "1":{
+                "name":"El Frédo",
+                "avis":"5/5",
+                "commentaire":"Pas trop compliquée à construire, elle roule bien, elle fait vraie voiture de course avec son pilote. Mon fils en a été ravi pour son anniversaire, maintenant il peut faire la course avec ses autre voitures."
+            },
+            "2":{
+                "name":"P.Greg",
+                "avis":"5/5",
+                "commentaire":"Voiture de course McLaren Senna a assembler. Chouette idée cadeau. Marque: Lego"
+            },
+            "3":{
+                "name":"Gwladys",
+                "avis":"5/5",
+                "commentaire":"C'était un cadeau pour un garçon de sept ans qui s'est beaucoup amusé à la monter tout seul et suivant pas à pas la notice. Il s'en est sorti seul : les explications sont bien faites et adaptées à l'âge des enfants. Je recommande!"
+            },
+            "4":{
+                "name":"Isa",
+                "avis":"5/5",
+                "commentaire":"Au top ! Comme chaque Lego. Une belle idée pour un petit cadeau pour récompenser le joli travail fait par mon loulo, grand fan de Lego. Lego très vite monté, et mon grand était au courant. Il cherchait aussi à pouvoir customiser la voiture."
+            },
+            "5":{
+                "name":"emmanuelle",
+                "avis":"5/5",
+                "commentaire":"Boîte arrivée un peu abîmée car elle a juste été mise dans une enveloppe kraft mais la boîte était complète. C'était un cadeau de l'avent pour mon fils, il était ravi surtout que c'est un fan de lego."
+            }
+        }
+    },
+    "article5":{
+        "id":5,
+        "Titre":"LEGO City L’Intervention des Pompiers au Restaurant",
+        "SousTitre":21.99,
+        "image":{
+            "image1":"src/Image/shop/lego5/lego",
+            "image2":"src/Image/shop/lego5/lego2",
+            "image3":"src/Image/shop/lego5/lego3",
+            "image4":"src/Image/shop/lego5/lego4",
+            "image5":"src/Image/shop/lego5/lego5"
+        },
+        
+        "stock":"oui",
+        "score":"5",
+        "évaluation":"4 828",
+        "résumé":"Inclut 3 figurines LEGO City : 2 pompiers et le cuisinier du restaurant. Comprend un camion des pompiers avec une cabine pour figurine, une partie arrière rotative, une pompe directionnelle avec une fonction de «jet d’eau» et 2 compartiments de rangement, plus une moto. Comprend également un restaurant de burgers avec un panneau de burger, une fenêtre de service qui s'ouvre et une poubelle.",
+        "commentaires":{
+            "1":{
+                "name":"El Frédo",
+                "avis":"5/5",
+                "commentaire":"Le camion de pompier est muni d'un système de poire qui permet de faire avancer un tube transparent qui symbolise l'eau et qui surtout fait tomber les flammes en haut du fast food. L'échelle sur le dessus du camion se lève et se déploie, comme il se doit. Ça plaît à mon fils, rien de compliqué dans le montage, une bonne petite boîte."
+            },
+            "2":{
+                "name":"AMIL",
+                "avis":"5/5",
+                "commentaire":"Avec son joli camion dont la partie postérieure tourne afin d'offrir le maximum d'amplitude à la très ludique lance à incendie (pneumatique, elle nécessite la pression de la main sur une petite poire pour faire jaillir l'eau) et son stand de burgers bien pensé (la vitre coulisse permettant d'ouvrir et fermer à la vente, les flammes de l'enseigne peuvent se rétracter sous l'effet de la lance à incendie), ce set a de très beaux arguments à faire valoir. Seule difficultéd'utilisation pour les plus jeunes enfants : pas évident de doser la force pour les petites mains."
+            },
+            "3":{
+                "name":"Val",
+                "avis":"5/5",
+                "commentaire":"La boîte n'est pas très grande, mais le jeu est très bien. Cela demande un temps raisonnable de montage, et les enfants aiment dégommer les fausses flammes avec la fausse lance à incendie. Très amusant."
+            }
+        }
+    },
+    "article6":{
+        "id":6,
+        "Titre":"LEGO City L’Intervention des Pompiers au Restaurant",
+        "SousTitre":21.99,
+        "image":{
+            "image1":"src/Image/shop/lego5/lego",
+            "image2":"src/Image/shop/lego5/lego2",
+            "image3":"src/Image/shop/lego5/lego3",
+            "image4":"src/Image/shop/lego5/lego4",
+            "image5":"src/Image/shop/lego5/lego5"
+        },
+        
+        "stock":"oui",
+        "score":"5",
+        "évaluation":"4 828",
+        "résumé":"Inclut 3 figurines LEGO City : 2 pompiers et le cuisinier du restaurant. Comprend un camion des pompiers avec une cabine pour figurine, une partie arrière rotative, une pompe directionnelle avec une fonction de «jet d’eau» et 2 compartiments de rangement, plus une moto. Comprend également un restaurant de burgers avec un panneau de burger, une fenêtre de service qui s'ouvre et une poubelle.",
+        "commentaires":{
+            "1":{
+                "name":"El Frédo",
+                "avis":"5/5",
+                "commentaire":"Le camion de pompier est muni d'un système de poire qui permet de faire avancer un tube transparent qui symbolise l'eau et qui surtout fait tomber les flammes en haut du fast food. L'échelle sur le dessus du camion se lève et se déploie, comme il se doit. Ça plaît à mon fils, rien de compliqué dans le montage, une bonne petite boîte."
+            },
+            "2":{
+                "name":"AMIL",
+                "avis":"5/5",
+                "commentaire":"Avec son joli camion dont la partie postérieure tourne afin d'offrir le maximum d'amplitude à la très ludique lance à incendie (pneumatique, elle nécessite la pression de la main sur une petite poire pour faire jaillir l'eau) et son stand de burgers bien pensé (la vitre coulisse permettant d'ouvrir et fermer à la vente, les flammes de l'enseigne peuvent se rétracter sous l'effet de la lance à incendie), ce set a de très beaux arguments à faire valoir. Seule difficultéd'utilisation pour les plus jeunes enfants : pas évident de doser la force pour les petites mains."
+            },
+            "3":{
+                "name":"Val",
+                "avis":"5/5",
+                "commentaire":"La boîte n'est pas très grande, mais le jeu est très bien. Cela demande un temps raisonnable de montage, et les enfants aiment dégommer les fausses flammes avec la fausse lance à incendie. Très amusant."
+            }
+        }
+    }
+
+}
