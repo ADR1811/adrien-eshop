@@ -4,11 +4,11 @@
         "Titre":"LEGO 10696 Classic",
         "SousTitre":22.70,
         "image":{
-            "image1":"src/Image/lego1/lego",
-            "image2":"src/Image/lego1/lego2",
-            "image3":"src/Image/lego1/lego3",
-            "image4":"src/Image/lego1/lego4",
-            "image5":"src/Image/lego1/lego5"
+            "image1":"src/Image/lego1/lego.jpg",
+            "image2":"src/Image/lego1/lego2.jpg",
+            "image3":"src/Image/lego1/lego3.jpg",
+            "image4":"src/Image/lego1/lego4.jpg",
+            "image5":"src/Image/lego1/lego5.jpg"
         },  
         
         "stock":"oui",
@@ -44,11 +44,11 @@
         "Titre":"LEGO City Le Camping-Car de Vacances",
         "SousTitre":19.61 ,
         "image":{
-            "image1":"src/Image/lego2/lego",
-            "image2":"src/Image/lego2/lego2",
-            "image3":"src/Image/lego2/lego3",
-            "image4":"src/Image/lego2/lego4",
-            "image5":"src/Image/lego2/lego5"
+            "image1":"src/Image/lego2/lego.jpg",
+            "image2":"src/Image/lego2/lego2.jpg",
+            "image3":"src/Image/lego2/lego3.jpg",
+            "image4":"src/Image/lego2/lego4.jpg",
+            "image5":"src/Image/lego2/lego5.jpg"
         },
         
         "stock":"non",
@@ -78,11 +78,11 @@
         "Titre":"LEGO Creator Le Dinosaure féroce",
         "SousTitre":12.99 ,
         "image":{
-            "image1":"src/Image/lego3/lego",
-            "image2":"src/Image/lego3/lego2",
-            "image3":"src/Image/lego3/lego3",
-            "image4":"src/Image/lego3/lego4",
-            "image5":"src/Image/lego3/lego5"
+            "image1":"src/Image/lego3/lego.jpg",
+            "image2":"src/Image/lego3/lego2.jpg",
+            "image3":"src/Image/lego3/lego3.jpg",
+            "image4":"src/Image/lego3/lego4.jpg",
+            "image5":"src/Image/lego3/lego5.jpg"
         },
         
         "stock":"oui",
@@ -112,11 +112,11 @@
         "Titre":"LEGO Speed Champions McLaren Senna",
         "SousTitre":11.99 ,
         "image":{
-            "image1":"src/Image/lego4/lego",
-            "image2":"src/Image/lego4/lego2",
-            "image3":"src/Image/lego4/lego3",
-            "image4":"src/Image/lego4/lego4",
-            "image5":"src/Image/lego4/lego5"
+            "image1":"src/Image/lego4/lego.jpg",
+            "image2":"src/Image/lego4/lego2.jpg",
+            "image3":"src/Image/lego4/lego3.jpg",
+            "image4":"src/Image/lego4/lego4.jpg",
+            "image5":"src/Image/lego4/lego5.jpg"
         },
         
         "stock":"oui",
@@ -156,11 +156,11 @@
         "Titre":"LEGO City L’Intervention des Pompiers au Restaurant",
         "SousTitre":21.99,
         "image":{
-            "image1":"src/Image/lego5/lego",
-            "image2":"src/Image/lego5/lego2",
-            "image3":"src/Image/lego5/lego3",
-            "image4":"src/Image/lego5/lego4",
-            "image5":"src/Image/lego5/lego5"
+            "image1":"src/Image/lego5/lego.jpg",
+            "image2":"src/Image/lego5/lego2.jpg",
+            "image3":"src/Image/lego5/lego3.jpg",
+            "image4":"src/Image/lego5/lego4.jpg",
+            "image5":"src/Image/lego5/lego5.jpg"
         },
         
         "stock":"oui",
@@ -190,11 +190,11 @@
         "Titre":"LEGO City L’Intervention des Pompiers au Restaurant",
         "SousTitre":21.99,
         "image":{
-            "image1":"src/Image/lego5/lego",
-            "image2":"src/Image/lego5/lego2",
-            "image3":"src/Image/lego5/lego3",
-            "image4":"src/Image/lego5/lego4",
-            "image5":"src/Image/lego5/lego5"
+            "image1":"src/Image/lego5/lego.jpg",
+            "image2":"src/Image/lego5/lego2.jpg",
+            "image3":"src/Image/lego5/lego3.jpg",
+            "image4":"src/Image/lego5/lego4.jpg",
+            "image5":"src/Image/lego5/lego5.jpg"
         },
         
         "stock":"oui",
